@@ -4,9 +4,9 @@ Digitalitzant les petites i mitjanes empreses.
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Pol Castaño Meneses
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]: 
+Formant grups de treball: Pol Casstaño, Christian Bogdanas, Victor Rodriguez: 
 
 ## Descripció del projecte
 
